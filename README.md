@@ -177,5 +177,19 @@ This produces `transactions.csv` simulating:
 
 ---
 
+## 👥 Contributors
+
+A huge thanks to the contributors who have helped build and improve this project:
+
+| <a href="https://github.com/duttulluruvarun"><img src="https://github.com/duttulluruvarun.png?size=100" width="100px;" alt="Varun Duttulluru"/><br /><sub><b>Varun Duttulluru</b></sub></a><br /><sub>Owner / Core Developer</sub> | <a href="https://github.com/nitink-2007"><img src="https://github.com/nitink-2007.png?size=100" width="100px;" alt="Nitin K"/><br /><sub><b>Nitin K</b></sub></a><br /><sub>Collaborator / Contributor</sub> |
+| :---: | :---: |
+
+- **Varun Duttulluru** ([@duttulluruvarun](https://github.com/duttulluruvarun))
+- **Nitin K** ([@nitink-2007](https://github.com/nitink-2007))
+
+Contributions, issues, and feature requests are welcome!
+
+---
+
 ## 📄 License
 This project is open-source under the [MIT License](LICENSE).
